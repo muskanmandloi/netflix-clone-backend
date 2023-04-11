@@ -5,7 +5,11 @@ const mongoose = require("mongoose");
 
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "*",
+  })
+);
 app.use(express.json());
 
 //const uri="mongodb+srv://muskanmandloi:<password>@netflix.0z5r4ng.mongodb.net/?retryWrites=true&w=majority";
