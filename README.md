@@ -1,0 +1,7 @@
+# netflix-clone-backend![Netflix-Clone - Google Chrome 10-04-2023 10_10_57](https://user-images.githubusercontent.com/54906865/231339840-9cd16a42-43d6-4817-8bfe-e23c13ad0949.png)
+![Netflix-Clone - Google Chrome 09-04-2023 23_26_20](https://user-images.githubusercontent.com/54906865/231339909-01073b89-329d-4deb-b69f-6bc77245ee31.png)
+![Netflix-Clone - Google Chrome 10-04-2023 10_05_36](https://user-images.githubusercontent.com/54906865/231339941-87637f1e-eaee-4de7-99ac-6bcbd33449f5.png)
+![Netflix-Clone - Google Chrome 10-04-2023 10_08_45](https://user-images.githubusercontent.com/54906865/231339952-a4bcc25d-27bc-417d-86cf-bd75314668e4.png)
+![Netflix-Clone - Google Chrome 10-04-2023 10_08_55](https://user-images.githubusercontent.com/54906865/231339960-747e2a3f-9bc9-4d1b-8ed9-26c561ac3f72.png)
+![Netflix-Clone - Google Chrome 10-04-2023 10_09_07](https://user-images.githubusercontent.com/54906865/231339978-29035e74-e5a2-42df-94c4-a23eec361a87.png)
+![Netflix-Clone - Google Chrome 10-04-2023 10_10_43](https://user-images.githubusercontent.com/54906865/231340005-f6a7a875-fd3a-4d79-959b-99d3fe88830d.png)
